@@ -1,0 +1,2 @@
+# 2020PKUArtificialIntelligencePrincipleXmind
+网课：北京大学人工智能原理的脑图
